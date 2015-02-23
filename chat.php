@@ -13,9 +13,9 @@ unset($_SESSION['myid']);
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Chat</title>
-<script src="jquery.min.js"></script>
-<script src="moment.min.js"></script>
-<script src="livestamp.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.9.0/moment.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/livestamp/1.1.2/livestamp.min.js"></script>
 <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
